@@ -1,0 +1,10 @@
+git init 
+ git remote add -m "file"
+ git status
+ git add .
+ git push -u origian master\main
+
+ git status 
+ git add .
+ git status
+ git push -u origian master\main
