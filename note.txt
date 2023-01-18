@@ -8,3 +8,53 @@ git init
  git add .
  git status
  git push -u origian master\main
+ 
+ //join github repo with local project folder
+1.git init
+2.git remote add origin (url)
+3.git remote show origin
+	@@ -20,5 +21,53 @@
+4.git commit -m "message"
+5.git push -u origin master/main
+
+//team github
+git hub new repo
+
+//join github repo with local project folder
+1.git init
+2.git remote add origin (url)
+3.git remote show origin
+
+
+//git first upload 
+1.git status
+2.git add .
+3.git status
+4.git commit -m "message"
+5.git push -u origin master/main
+
+//leader (collaborator)
+
+
+//member (accpet invitation in gmail)
+
+member
+1.git clone (url)
+2.write project with clone folder
+3.git status
+4.git add .
+5.git status
+6.git commit -m "message"
+7.git push -u origin master/main
+
+
+
+
+//team menber
+1.git pull
+2.write project with clone folder
+3.git status
+4.git add .
+5.git status
+6.git commit -m "message"
+7.git push -u origin master/main
