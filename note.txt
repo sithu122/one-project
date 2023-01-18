@@ -13,7 +13,7 @@ git init
 1.git init
 2.git remote add origin (url)
 3.git remote show origin
-	@@ -20,5 +21,53 @@
+	
 4.git commit -m "message"
 5.git push -u origin master/main
 
